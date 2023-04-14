@@ -31,6 +31,8 @@ In this project, the survey results will be used to answer the following questio
 
 StackOverflow_survey.ipynb - 
 
+#### Installation:
+Run pip install -r requirements.txt
 
 Medium Blog
 https://medium.com/@emna.krichen_72178/2022-stackoverflow-survey-analysis-6203b4edb1e3
