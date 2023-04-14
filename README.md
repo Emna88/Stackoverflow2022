@@ -24,8 +24,7 @@ In this project, the survey results will be used to answer the following questio
 #### Data Dictionary:
 
 
-- survey_results_public.csv - containing data review from developers
-https://insights.stackoverflow.com/survey
+- survey_results_public.rar - a rar file containing csv file where data review are collected from developers
 
 
 #### Files:
